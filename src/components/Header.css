@@ -1,0 +1,20 @@
+header img {
+    height: 40px;
+}
+
+header {
+    margin: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* phone device
+@media only screen and (min-width: 320px){  
+    header {
+      margin: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  } */

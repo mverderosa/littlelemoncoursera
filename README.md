@@ -2,9 +2,9 @@
 
 ## Project Description
 This is my final project for Meta's Coursera Front-End Development course.<br/>
-The project is made entirely with React, CSS and HTML.
+The project is made entirely with React, CSS and HTML. This also features utilizing API calls.
 
-Every button takes you to a page, however the only page with some content in it is the Reservation page.
+NOTE: every button takes you to a page, however the only page with some content in it is the Reservation page.
 
 ## How to see it:
 

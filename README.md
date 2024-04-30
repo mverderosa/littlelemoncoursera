@@ -1,5 +1,12 @@
 # Little Lemon
-Hi guys, this is my project. If you want to view it on your local machine follow these steps:
+
+## Project Description
+This is my final project for Meta's Coursera Front-End Development course.<br/>
+The project is made entirely with React, CSS and HTML.
+
+Every button takes you to a page, however the only page with some content in it is the Reservation page.
+
+## How to see it:
 
 1. Create a new folder in your VSCode;
 2. Copy the project in Github by clicking to "Code" in my repository;

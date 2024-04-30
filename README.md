@@ -7,9 +7,11 @@ The project is made entirely with React, CSS and HTML. This also features utiliz
 NOTE: every button takes you to a page, however the only page with some content in it is the Reservation page.
 
 ## How to see it
-
 1. Create a new folder in your VSCode;
 2. Copy the project in Github by clicking to "Code" in my repository;
 3. Open the terminal of the folder you've created and write "git clone" and the copied link;
 4. Lastly, add the node_modules by writing "npm install"
 
+## Preview
+![Screenshot_20240430_172542](https://github.com/mverderosa/littlelemoncoursera/assets/120273226/d4609ff5-1689-427a-8b26-c306a444c67e)
+![Screenshot_20240430_172913](https://github.com/mverderosa/littlelemoncoursera/assets/120273226/ad1b48d2-a6c1-4ee2-907b-494b46e92222)
